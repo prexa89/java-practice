@@ -1,6 +1,6 @@
 package TypeCasting;
 
-public class Class1 {
+public class WideCasting {
     public static void main(String[] args) {
         int myInt = 9;  //wide casting
         System.out.println(myInt);
