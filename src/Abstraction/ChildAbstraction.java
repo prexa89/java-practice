@@ -1,7 +1,11 @@
 package Abstraction;
 
-public abstract class ChildAbstraction extends Abstraction{
-    public static void main(String[] args) {
+ abstract public class ChildAbstraction extends Abstraction{
+
+
+                void PrintName(){
+            System.out.println("My name is Prexa");
+        }
 
     }
-}
+

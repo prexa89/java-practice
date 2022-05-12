@@ -5,6 +5,7 @@ public interface Bank {
     void balance();
     void deposit();
     void ATM();
+    void moneyTransfer();
     }
 
 
